@@ -1,4 +1,6 @@
 TIMEOUT /T 10
+F:\
+cd "covid-worldmeter-data"
 
 git add .
 
